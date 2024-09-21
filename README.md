@@ -96,5 +96,5 @@ Patel needs a consolidated, easy-to-digest Power BI dashboard that visualizes sa
 
 # Power BI Sales Insights Dashboard
 
-To view the dashboard, [download the Power BI file](https://github.com/username/repository-name/blob/main/Power%20bi.pbix) and open it in Power BI Desktop.
+To view the dashboard, [download the Power BI file]([https://github.com/username/repository-name/blob/main/Power%20bi.pbix](https://github.com/Shagun292001/Sales-Insights-Data-Analysis-Project/blob/main/Power%20bi.pbix)) and open it in Power BI Desktop.
 
